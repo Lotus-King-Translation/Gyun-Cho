@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Mikko Kotila, 2022
 # Inga Pogosyan, 2022
+# Mikko Kotila, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Inga Pogosyan, 2022\n"
+"Last-Translator: Mikko Kotila, 2023\n"
 "Language-Team: English (https://www.transifex.com/lotus-king-trust/teams/157756/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +80,7 @@ msgid ""
 "དེ␣ར་ དབྱེ་ ཆུང་ སྒོམ་ ཕུག་ ཏུ་ བྱོན་ ནས་ སྒྲུབ་པ་ མཛད་པ␣ས་ སྙུང་ ནད་ དྭངས་ "
 "ཤིང་"
 msgstr ""
-"After arriving there in the small openning in the meditation cave, the "
+"After arriving there in the small opening in the meditation cave, the "
 "illness got cleared by performing the practice for getting accomplishments."
 
 msgctxt "5c7bd6ce4e3b49eab5c14c37f86dd9e1"
@@ -651,7 +651,7 @@ msgid ""
 "སྡུག་བསྔལ་ འབྱུང །"
 msgstr ""
 "“If not kept in secret, all the snakes and thieves \n"
-"will get the teaching and it will imbalance four elements like earth, fire, and so on which will bring suffering.”"
+"Will get the teaching and it will imbalance four elements like earth, fire, and so on which will bring suffering.”"
 
 msgctxt "8e2f1282df934929ae7b60b85b2ebac4"
 msgid "ཅེས་ གསུངས་ སོ །"
